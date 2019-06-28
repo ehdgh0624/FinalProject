@@ -140,6 +140,8 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
+*.MF
+.MF
 
 # End of https://www.gitignore.io/api/maven
 
