@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>메인페이지</h1>
+	김동천
 </body>
 </html>
