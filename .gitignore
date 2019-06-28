@@ -2,7 +2,9 @@
 # Created by https://www.gitignore.io/api/java,windows,eclipse
 # Edit at https://www.gitignore.io/?templates=java,windows,eclipse
 
-**/META-INF/
+**/META-INF/**
+FinalProject/target/**
+
 ### Eclipse ###
 .metadata
 bin/
@@ -122,4 +124,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/java,windows,eclipse
+
+
